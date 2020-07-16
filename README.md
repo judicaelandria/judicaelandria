@@ -1,4 +1,4 @@
-![Judicael Greetings](frame.png)
+![Judicael Greetings](judicael.png)
 
 I'm a new to open source community, but so far I love contributing to open source project,
 it help to be a better programmer, to learn from other developer.
