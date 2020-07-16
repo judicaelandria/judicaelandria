@@ -8,3 +8,5 @@ Some tools that I use to create things:
    - Nodejs
    - Gatsbyjs
    - Mostly I use Javascript (ES6)
+   
+   ![Judicael github stats](https://github-readme-stats.vercel.app/api?username=judicaelandria&show_icons=true)
