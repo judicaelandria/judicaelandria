@@ -6,4 +6,4 @@ I love creating things for web, I use javascript to create. Yeah I love vanilla 
 I enjoy creating things for mobile too using React Native. And finally I'm an apprentice designer.
 That's all folks, thanks for reading and have a good day.
 
-![Judicael github stats](https://github-readme-stats.vercel.app/api?username=judicaelandria&show_icons=true&bg_color=050F2C&title_color=00AEFF&icon_color=2DDE98&text_color=FFFFFF)
+![Judicael github stats](https://github-readme-stats.vercel.app/api?username=judicaelandria&show_icons=true&bg_color=050F2C&title_color=00AEFF&icon_color=2DDE98&text_color=FFFFFF&include_all_commits=true)
